@@ -10,4 +10,4 @@ https://github.com/routerjude/jude.github.io/
 
 And, soon, you can see my customized homepage at:
 
-http://routerjude.github.io/jude.github.io/home.html
+https://jude.github.io/
